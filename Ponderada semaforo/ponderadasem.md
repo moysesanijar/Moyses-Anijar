@@ -10,6 +10,19 @@
 |Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	X | - |	- |1 | 
 | | | | |Pontuação Total: 10|
 
+### Semaforo Fisico
+![alt text](<Foto - Semaforo Fisico.png>) 
+
+### Tabela de componentes
+|Componente|	Quantidade|
+|-|-|
+| Jumper azul | 4|	
+| Jumper vermelho | 3|
+| Led amarelo | 1 |
+| Led vermelho | 1 |
+| Led verde| 1 |
+| Resistores | 3 |
+
 ### Código
 ```
 const int ledVermelho = 8;
