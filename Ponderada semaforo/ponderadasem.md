@@ -11,7 +11,7 @@
 | | | | |Pontuação Total: 10|
 
 ### Código
-
+```
 const int ledVermelho = 8;
 const int ledAmarelo = 9;
 const int ledVerde = 7;
@@ -46,6 +46,7 @@ void loop() {
   digitalWrite(ledVerde, LOW);
   delay(2000);
 }
+```
 ______________________________________________
 
 Video: https://drive.google.com/file/d/1Gqx5M39N0clYIhlhl5xsGZkkPE04q5S4/view?usp=sharing
